@@ -5,6 +5,7 @@
 .slicknav_menu{
     display: block;
     background: #e7a839;
+    margin: 0px 15px;
 }
 
 .slicknav_menu ul {
@@ -160,6 +161,7 @@
 .slicknav_menu{
     display: block;
     background: #e7a839;
+    margin: 0px 15px;
 }
 .slicknav_menu li a{
     text-decoration: none;
@@ -401,6 +403,7 @@
 .slicknav_menu{
     display: block;
     background: #e7a839;
+    margin: 0px 15px;
 }
 .slicknav_menu li a{
     text-decoration: none;
