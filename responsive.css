@@ -1,0 +1,604 @@
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+.slicknav_menu{
+    display: block;
+    background: #e7a839;
+}
+
+.slicknav_menu ul {
+    position: absolute;
+    top: 9px;
+    left: 0;
+}
+.slicknav_menu ul li{
+    display: inline-block;
+}
+.slicknav_menu ul li a {
+    margin-right: 13px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+.header-logo-img {
+    padding: 80px 0px 50px 0px;
+    text-align: center;
+    border-radius: 0;
+}
+.full-menu {
+    display: none;
+}
+.main-manu ul li {
+    padding: 7px;
+}
+.main-manu ul li a {
+    font-size: 20px;
+}
+.header-menu-area {
+    padding-top: 0;
+    padding-right: 0;
+}
+.header {
+    padding-bottom: 0;
+}
+.name {
+    text-align: center;
+}
+.user-name.text-color h2 {
+
+    margin: 0;
+    font-size: 53px;
+}
+.user-name-contant {
+    margin-top: 50px;
+}
+
+.about-section {
+    margin-top: 80px;
+}
+.about-title h2 {
+    font-size: 33px;
+    text-align: center;
+}
+.about-me {
+    padding-top: 50px;
+    width: 100%;
+
+}
+.about-singal-title {
+    margin-bottom: 20px;
+}
+.skill-title h2 {
+    font-size: 33px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.about-right {
+    width: 84%;
+    margin: 0 auto;
+    padding: 137px 0px 180px 0px;
+}
+.about-title p {
+    font-size: 14px;
+    margin-bottom: 25px;
+    line-height: 26px;
+}
+.about-bottom {
+    margin-top: 50px;
+    text-align: center;
+}
+.services-right-singal-title h2 {
+    font-size: 33px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.services-right {
+    padding: 80px 20px;
+}
+.portfolio-title h2 {
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+.portfolio-left {
+    padding: 0px 20px;
+}
+.portfolio-title {
+    text-align: center;
+}
+.portfolio-link p {
+    text-align: center;
+}
+.text-color span {
+    margin-left: 20px;
+}
+.portfolio-right {
+    margin: 80px 0px;
+}
+.team-right-title h2 {
+    font-size: 33px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.team-right {
+    padding: 80px 20px;
+}
+.reviews-left-title h2 {
+    font-size: 33px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.singal-reviews-left {
+    padding: 0px 20px;
+}
+.singal-slide {
+    padding: 50px 50px 100px 50px;
+}
+.client-reviews-slide .owl-dots {
+    bottom: 13%;
+    right: 45%;
+}
+.footer-top {
+    padding: 50px 0px;
+    width: 100%;
+}
+
+
+
+
+
+}
+
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 479px) {
+
+.slicknav_menu{
+    display: block;
+    background: #e7a839;
+}
+.slicknav_menu li a{
+    text-decoration: none;
+}
+.header-logo-img {
+    padding-top: 0px;
+    text-align: center;
+    border-radius: 0 0 0% 0;
+    padding: 15px 0px;
+}
+.header-logo-img img {
+    width: 85%;
+}
+.full-menu{
+    display: none;
+}
+.user-name-contant {
+    margin-top: 0;
+    text-align: left;
+}
+.about-info p {
+    text-align: center;
+    margin-bottom: 5px;
+}
+.header {
+    padding-bottom: 0;
+}
+.header-menu-area {
+    padding-top: 0;
+    padding-right: 0;
+}
+.name {
+    text-align: center;
+}
+.user-name.text-color h2 {
+    margin-top: 25px;
+    font-size: 25px;
+}
+.user-content {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.full-info {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.about-info {
+    text-align: left;
+}
+.about-me {
+    padding-top: 50px;
+    width: 100%;
+    margin: 0 auto;
+}
+.about-singal-title {
+    margin-bottom: 15px;
+}
+.about-title h2 {
+    font-size: 25px;
+    text-align: center;
+}
+.text-color span {
+    margin-left: 15px;
+}
+.about-title p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 26px;
+}
+.about-bottom {
+    margin-top: 20px;
+    text-align: center;
+}
+.about-bottom a {
+    font-size: 14px;
+    padding: 15px 32px;
+}
+.skill-title h2 {
+    font-size: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.about-right {
+    width: 100%;
+    padding: 50px 30px 20px 20px;
+    margin: 0;
+}
+.about-right-info {
+    margin-top: 50px;
+}
+.signal-progress-ber-area h3 {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.sengal-services {
+    padding: 50px 25px 50px 25px;
+}
+.singal-services-content p {
+    font-size: 14px;
+    line-height: 26px;
+}
+.service{
+    margin-top: 50px;
+}
+.services-right {
+    padding: 0px 0px 0px 0px;
+    margin-top: 50px;
+}
+.services-right-singal-title h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.services-right-title p {
+    font-size: 14px;
+    line-height: 26px;
+    margin: 0;
+}
+.portfolio-left {
+    padding: 0;
+    margin-top: 50px;
+}
+.portfolio-title h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.portfolio-content p {
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 30px;
+}
+.portfolio-link a {
+
+    font-size: 14px;
+    padding: 15px 32px;
+}
+.portfolio-link {
+    margin-top: 20px;
+    text-align: center;
+}
+.portfolio-right {
+    margin-top: 50px;
+}
+.team-name-hover {
+    position: absolute;
+    bottom: -5px;
+    right: 12px;
+}
+.team {
+    margin-top: 50px;
+}
+.team-right {
+    padding: 0px;
+}
+.team-right-title h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.team-right {
+    padding: 0px;
+    margin-top: 50px;
+}
+.team-right-title {
+    text-align: center;
+}
+.team-right-content p {
+    line-height: 26px;
+    font-size: 14px;
+        margin: 0;
+}
+.singal-reviews-left {
+    padding: 0px;
+}
+.reviews-left-title h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.reviews-left {
+    margin-top: 50px;
+}
+.reviews-left-content p {
+    font-size: 14px;
+    padding: 0px 10px;
+    line-height: 26px;
+}
+.reviews-client-info p {
+    font-size: 14px;
+    line-height: 26px;
+}
+.singal-slide {
+    padding: 70px 10px 100px 10px;
+}
+.client-reviews-slide .owl-dots {
+    bottom: 10%;
+    right: 36%;
+}
+.client-reviews-slide {
+    margin-top: 20px;
+}
+.reviews-client-info h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.reviews-client-info h5 {
+    font-size: 14px;
+}
+
+.footer-top {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 100%;
+}
+.footer-icon-con p {
+    font-size: 14px;
+    line-height: 26px;
+}
+.footer-bottom p {
+    font-size: 14px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.slicknav_menu{
+    display: block;
+    background: #e7a839;
+}
+.slicknav_menu li a{
+    text-decoration: none;
+}
+.header-logo-img {
+    padding-top: 0px;
+    text-align: center;
+    border-radius: 0 0 0% 0;
+    padding: 20px 0px;
+}
+.header-logo-img img {
+    width: 85%;
+}
+.full-menu{
+    display: none;
+}
+.user-name-contant {
+    margin-top: 0;
+    text-align: left;
+}
+.header {
+    padding-bottom: 0;
+}
+.header-menu-area {
+    padding-top: 0;
+    padding-right: 0;
+}
+.name {
+    text-align: center;
+}
+.user-name.text-color h2 {
+    margin-top: 40px;
+    font-size: 35px;
+}
+.user-content {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.full-info {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.about-info {
+    text-align: center;
+}
+.about-me {
+    padding-top: 50px;
+    width: 100%;
+    margin: 0 auto;
+}
+.about-singal-title {
+    margin-bottom: 15px;
+}
+.about-title h2 {
+    font-size: 32px;
+    text-align: center;
+}
+.text-color span {
+    margin-left: 15px;
+}
+.about-title p {
+    font-size: 14px;
+    line-height: 26px;
+}
+.about-bottom {
+    margin-top: 20px;
+    text-align: center;
+}
+.about-bottom a {
+    font-size: 14px;
+    padding: 15px 32px;
+}
+.skill-title h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.about-right {
+    width: 100%;
+    padding: 50px 30px 20px 20px;
+    margin: 0;
+}
+.about-right-info {
+    margin-top: 50px;
+}
+.sengal-services {
+    padding: 50px 25px 50px 25px;
+}
+.singal-services-content p {
+    font-size: 14px;
+    line-height: 26px;
+}
+.service{
+    margin-top: 50px;
+}
+.services-right {
+    padding: 0px 0px 0px 0px;
+    margin-top: 50px;
+}
+.services-right-singal-title h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.services-right-title p {
+    font-size: 14px;
+    line-height: 26px;
+    margin: 0;
+}
+.portfolio-left {
+    padding: 0;
+    margin-top: 50px;
+}
+.portfolio-title h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.portfolio-content p {
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 30px;
+}
+.portfolio-link a {
+
+    font-size: 14px;
+    padding: 15px 32px;
+}
+.portfolio-link {
+    margin-top: 20px;
+    text-align: center;
+}
+.portfolio-right {
+    margin-top: 50px;
+}
+.team-name-hover {
+    position: absolute;
+    bottom: -5px;
+    right: 12px;
+}
+.team {
+    margin-top: 50px;
+}
+.team-right {
+    padding: 0px;
+}
+.team-right-title h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+.team-right {
+    padding: 0px;
+    margin-top: 50px;
+}
+.team-right-title {
+    text-align: center;
+}
+.team-right-content p {
+    line-height: 26px;
+    font-size: 14px;
+        margin: 0;
+}
+.singal-reviews-left {
+    padding: 0px;
+}
+.reviews-left-title h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.reviews-left {
+    margin-top: 50px;
+}
+.reviews-left-content p {
+    font-size: 14px;
+    padding: 0px 10px;
+    line-height: 26px;
+}
+.singal-slide {
+    padding: 70px 10px 100px 10px;
+}
+.client-reviews-slide .owl-dots {
+    bottom: 10%;
+    right: 42%;
+}
+.client-reviews-slide {
+    margin-top: 20px;
+}
+.footer-top {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 100%;
+}
+
+
+
+
+
+}
